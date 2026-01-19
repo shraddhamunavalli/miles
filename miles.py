@@ -1,4 +1,4 @@
-def miles_to_kilometers():
+def miles():
   result = miles* 1.60934
   return result
 
