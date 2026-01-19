@@ -3,6 +3,6 @@ def miles_to_kilometers():
   return result
 
 if __name__=="__main__":
-  print("miles:", miles(5))
+  print("miles:")
 
 
