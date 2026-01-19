@@ -1,4 +1,4 @@
-from miles import mile
+from miles import miles_to_kilometers
 
 def testcase():
-    assert mile(5) == 8.04672
+    assert miles(5) == 8.04672
